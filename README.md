@@ -2,3 +2,4 @@
 Repositório para o segundo trabalho prático da disciplina linguagens formais e autômatos. 
 ## Integrantes: 
 * Leandro Silva Farias
+* José Osmário Batista de Góis Júnior
