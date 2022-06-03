@@ -1,4 +1,4 @@
 from CYK import CYK
 from Gramatica import Gramatica
 
-CYK(Gramatica('gramatica'), 'aabb')
+CYK(gramatica=Gramatica('gramatica'), palavra='aabb')
